@@ -23,3 +23,6 @@ https://blog.csdn.net/weixin_47967031/article/details/127114225
 ### What’s new in Flutter 3.7
 https://medium.com/flutter/whats-new-in-flutter-3-7-38cbea71133c
 
+
+### Building a Chrome Extension using Flutter
+https://medium.com/flutter-community/building-a-chrome-extension-using-flutter-aeb100a6d6c
